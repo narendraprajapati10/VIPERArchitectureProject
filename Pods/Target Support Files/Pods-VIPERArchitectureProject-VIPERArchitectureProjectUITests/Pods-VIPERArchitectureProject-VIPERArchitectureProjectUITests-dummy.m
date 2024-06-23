@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_VIPERArchitectureProject_VIPERArchitectureProjectUITests : NSObject
+@end
+@implementation PodsDummy_Pods_VIPERArchitectureProject_VIPERArchitectureProjectUITests
+@end
